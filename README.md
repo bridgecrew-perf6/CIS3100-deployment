@@ -1,5 +1,11 @@
 # Facebook
 
+HOW TO USE
+
+Commit a file on Develop, after a successful run, create a pull request and merge with release
+After successful action runs, your app is ready to deploy on vercel
+How to use vercel:
+https://vercel.com/docs/concepts/deployments/overview
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
 ## Development server
